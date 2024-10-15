@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoTable/static/css/main.83d18cee.css",
+    "main.js": "/CryptoTable/static/js/main.7c84210a.js",
+    "static/js/453.5ae54ce6.chunk.js": "/CryptoTable/static/js/453.5ae54ce6.chunk.js",
+    "index.html": "/CryptoTable/index.html",
+    "main.83d18cee.css.map": "/CryptoTable/static/css/main.83d18cee.css.map",
+    "main.7c84210a.js.map": "/CryptoTable/static/js/main.7c84210a.js.map",
+    "453.5ae54ce6.chunk.js.map": "/CryptoTable/static/js/453.5ae54ce6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d18cee.css",
+    "static/js/main.7c84210a.js"
+  ]
+}
