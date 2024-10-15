@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import CryptoTable from './CoinTable';
+import CryptoTable from './CryptoTable';
 
 function App() {
   return (

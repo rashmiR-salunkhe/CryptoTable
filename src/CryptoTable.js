@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './CoinTable.css'; 
+import './CryptoTable.css'; 
 
 const CryptoTable = () => {
   const [coins, setCoins] = useState([]);
